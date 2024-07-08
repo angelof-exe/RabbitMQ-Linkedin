@@ -1,0 +1,11 @@
+{
+  "name": "rabbitmq-linkedin",
+  "version": "1.0.0",
+  "description": "Progect with RabbitMQ for Linkedin Article",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Angelo Franciamore",
+  "license": "ISC"
+}
